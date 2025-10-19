@@ -209,9 +209,20 @@ a {
 	justify-content: start;
 }
 
-#page3 .grid .col-3.row-2 div,
+#page3 .block .block-3.row-2 {
+	padding-bottom: 0px !important;
+}
+
+#page3 .grid .col-3.row-2 div {
+	margin-top: 25px;
+}
+
 #page3 .block .block-3.row-2 div {
 	margin-top: 10px;
+}
+
+#page3 .block .block-3.row-3 {
+	padding-top: 5px;
 }
 
 #page3 .grid > div,
@@ -665,7 +676,7 @@ a {
 	}
 
 	#page7 .content {
-		padding: 20% 12% 16% 12%;
+		padding: 20% 12% 20% 12%;
 		color: #c7d6d3;
 	}
 
