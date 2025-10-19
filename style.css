@@ -488,6 +488,10 @@ a {
 		padding: 5em 3em;
 	}
 
+	#page5 .separator {
+		margin: 0 40px;
+	}
+
 	#page6 {
 		height: 30vh;
 	}
@@ -587,7 +591,7 @@ a {
 	}
 
 	#page3 .content {
-		padding: 60px 40px 50px 40px;
+		padding: 60px 40px 55px 40px;
 	}
 
 	#page3 .top img {
@@ -623,7 +627,7 @@ a {
 	}
 
 	#page5 .border {
-		top: 11%;
+		top: 9%;
 	}
 
 	#page5 .border .img-container {
@@ -631,7 +635,7 @@ a {
 	}
 
 	#page5 .border .img-container.right {
-		margin-top: 70px;
+		margin-top: 50px;
 	}
 
 	#page5 .content {
@@ -648,7 +652,12 @@ a {
 	}
 
 	#page5 .content .schedule-row:not(:last-child) {
-		margin-bottom: 1em;
+		margin-bottom: 2em;
+	}
+
+	#page5 .separator {
+		margin: 0 8px;
+		background-color: #c7d6d3;
 	}
 
 	#page6 {
