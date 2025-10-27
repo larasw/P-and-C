@@ -164,6 +164,7 @@ a {
 	color: #98aa91;
 	font-size: 27px;
 	margin-bottom: 5%;
+	padding: 0 5em;
 }
 
 #page3 .bottom-img {
@@ -303,7 +304,7 @@ a {
 
 #page5 .content {
 	width: 100%;
-	padding: 5em;
+	padding: 8em 5em 5em 5em;
 }
 
 #page5 .content .schedule-row {
@@ -334,7 +335,7 @@ a {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	top: 10%;
+	top: 6%;
 }
 
 #page5 .border .img-container {
@@ -369,7 +370,7 @@ a {
 }
 
 #page7 .content {
-	padding: 10%;
+	padding: 7em 6em;
 }
 
 #page7 .content ol {
@@ -469,6 +470,7 @@ a {
 
 	#page3 .bottom {
 		margin-bottom: 50px;
+		padding: 0;
 	}
 
 	#page4 {
@@ -484,7 +486,7 @@ a {
 	}
 
 	#page5 .border {
-		top: 4%;
+		top: 2%;
 	}
 
 	#page5 .border .img-container {
@@ -492,7 +494,7 @@ a {
 	}
 
 	#page5 .content {
-		padding: 5em 3em;
+		padding: 7em 3em 5em 3em;
 	}
 
 	#page5 .separator {
@@ -558,6 +560,10 @@ a {
 
 	#page3 .bottom {
 		font-size: 20px;
+	}
+
+	#page5 .border {
+		top: 1%;
 	}
 
 	#page5 .content .schedule-row .time .number {
@@ -634,7 +640,7 @@ a {
 	}
 
 	#page5 .border {
-		top: 9%;
+		top: 8%;
 	}
 
 	#page5 .border .img-container {
@@ -646,7 +652,7 @@ a {
 	}
 
 	#page5 .content {
-		padding: 5em 2em;
+		padding: 6em 2em 5em 2em;
 	}
 
 	#page5 .content .schedule-row .time,
